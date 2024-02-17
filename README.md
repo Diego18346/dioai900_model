@@ -44,5 +44,6 @@ Passo 8: Testar serviço implantado
  
   }
 
-  ** clicar no botao testar**
+  ** clicar no botao testar** para veriicar as predições do sue modelo
+  
   
